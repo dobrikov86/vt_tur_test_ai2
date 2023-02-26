@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[New Project]]></data>
+
+
+  <data name="ru_panogroup128_title"><![CDATA[пер. Сибирский]]></data>
+
+  <data name="ru_pano122_title"><![CDATA[1 пер. Сибирский(1)]]></data>
+  <data name="ru_spotpoint190_tooltip"><![CDATA[Войти внутрь здания]]></data>
+  <data name="ru_spotpoint191_tooltip"><![CDATA[Пройти вперед]]></data>
+  <data name="ru_pano123_title"><![CDATA[2 хол Энгельса 23]]></data>
+  <data name="ru_spotpoint197_tooltip"><![CDATA[на лестницу]]></data>
+  <data name="ru_spotpoint198_tooltip"><![CDATA[Выйти на улицу]]></data>
+  <data name="ru_pano124_title"><![CDATA[3 лестница]]></data>
+  <data name="ru_spotpoint199_tooltip"><![CDATA[вниз]]></data>
+  <data name="ru_pano125_title"><![CDATA[4 пер. Сибирский (2)]]></data>
+  <data name="ru_spotpoint232_tooltip"><![CDATA[пройти вперед]]></data>
+  <data name="ru_spotpoint233_tooltip"><![CDATA[пройти вперед]]></data>
+  <data name="ru_pano126_title"><![CDATA[5 пер. Сибирский(3)]]></data>
+  <data name="ru_spotpoint234_tooltip"><![CDATA[пройти вперед]]></data>
+  <data name="ru_spotpoint235_tooltip"><![CDATA[на крыльцо]]></data>
+  <data name="ru_pano127_title"><![CDATA[6 пер. Сибирский(4)]]></data>
+  <data name="ru_spotpoint236_tooltip"><![CDATA[спуститься]]></data>
+
+
+	<data name="ru_spotmap226_tooltip"><![CDATA[1 пер. Сибирский(1)]]></data>
+	<data name="ru_spotmap227_tooltip"><![CDATA[2 хол Энгельса 23]]></data>
+	<data name="ru_spotmap228_tooltip"><![CDATA[3 лестница]]></data>
+	<data name="ru_spotmap229_tooltip"><![CDATA[4 пер. Сибирский (2)]]></data>
+	<data name="ru_spotmap230_tooltip"><![CDATA[5 пер. Сибирский(3)]]></data>
+	<data name="ru_spotmap231_tooltip"><![CDATA[6 пер. Сибирский(4)]]></data>
+
+
+
+
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_logowebsiteurl"><![CDATA[]]></data>
+  <data name="ru_logotooltipText"><![CDATA[Разработано школой программирования CODDY]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
